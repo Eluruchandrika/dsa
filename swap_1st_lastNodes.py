@@ -51,7 +51,7 @@ if __name__=='__main__':
   print("ele of ll:")
   ll1.printll()
   ll1.swaplastfirstele()
-  print("ele of ll after  swapping last and first ele:")
+  print("ele of ll after swapping last and first ele:")
   ll1.printll()
 
   
