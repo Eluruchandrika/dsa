@@ -26,5 +26,5 @@ if __name__=='__main__':
   ll.insetnode(2)
   ll.insetnode(3)
   ll.insetnode(4)
-  print("search ele not in list: ",ll.searchele(5))
-  print("search ele which is in list:",ll.searchele(2))
+  print("search ele not in list",ll.searchele(5))
+  print("search ele which is in list",ll.searchele(5))
