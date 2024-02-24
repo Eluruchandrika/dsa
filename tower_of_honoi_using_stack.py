@@ -34,5 +34,5 @@ def tower_of_honoi(n, sou, aux, des):
         elif move % 3 == 0:
             move_disk(aux_stack, des_stack, aux, des)
 
-n = 3
+n = 4
 tower_of_honoi(n, 'a', 'b', 'c')
