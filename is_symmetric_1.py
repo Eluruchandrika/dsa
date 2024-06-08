@@ -15,7 +15,7 @@ def isMirror(root1, root2):
 
 def isSymmetric(root):
     if root==None:
-        return None
+        return True
     return isMirror(root.left, root.right)
 
 # Driver Code
