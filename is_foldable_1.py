@@ -41,5 +41,3 @@ if __name__ == "__main__":
 	else:
 		print("tree is not foldable")
 
-# This code is contributed by
-# Anupam Baranwal(anupambaranwal)
